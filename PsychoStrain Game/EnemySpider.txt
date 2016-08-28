@@ -1,0 +1,15 @@
+14
+enemySpider1_right.png 1
+enemySpider2_right.png 1
+enemySpider3_right.png 1
+enemySpider4_right.png 1
+enemySpider5_right.png 1
+enemySpider6_right.png 1
+enemySpider7_right.png 1
+enemySpider1_left.png 1
+enemySpider2_left.png 1
+enemySpider3_left.png 1
+enemySpider4_left.png 1
+enemySpider5_left.png 1
+enemySpider6_left.png 1
+enemySpider7_left.png 1

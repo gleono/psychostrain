@@ -1,0 +1,17 @@
+16
+enemySuperSpider1_right.png 1
+enemySuperSpider2_right.png 1
+enemySuperSpider3_right.png 1
+enemySuperSpider4_right.png 1
+enemySuperSpider5_right.png 1
+enemySuperSpider6_right.png 1
+enemySuperSpider7_right.png 1
+enemySuperSpider8_right.png 1
+enemySuperSpider1_left.png 1
+enemySuperSpider2_left.png 1
+enemySuperSpider3_left.png 1
+enemySuperSpider4_left.png 1
+enemySuperSpider5_left.png 1
+enemySuperSpider6_left.png 1
+enemySuperSpider7_left.png 1
+enemySuperSpider8_left.png 1

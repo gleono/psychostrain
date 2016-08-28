@@ -1,0 +1,12 @@
+#
+#MAILS
+#
+#####
+hq@bash.org$Es hora de que comiences tu entrenamiento$ BASH(Build in Arms Society) te ha encomendado la misionde recuperar$el virus hecho por el legendario "SynApS3" , ahora$tu mision es recuperarlo, pero primero necesitas saber algunas$cosas importantes y adquirir algunas habilidades para cumplir tu mision$Este es el campo de entrenamiento de BASH$tu primer mision consiste en completar el entrenamiento llegando$al final de este lugar$Este sera el medio de comunicacion por el cual$estableceremos conexion contigo$Que la suerte te acompañe$
+hq@bash.org$--->Para moverte usa las teclas$%$para salvar tu juego, en consola escribe el comando save "nombre de tu juego"$ por ejemplo: save Hacker1$
+hq@bash.org$--->Un implante especial en los musculos de tus extremidades$te da la habilidad de brincar distancias increibles$intenta pasar por este mar de plasma brincando de plataforma$en plataforma$Si caes sal rapidamente! Tu Traje es resitente a altas$temperaturas pero no durara por mucho tiempo!$
+hq@bash.org$--->Una ventaja del estado Ducking es que reduce$tu tamaño para poder accesar a lugares$estrechos, pasa por este tunel$
+hq@bash.org$--->Cuidado! Mas adelante se encuentra un enemigo, para matarlo$apunta con el mouse y dispara con click$adelante Destruyelo!$Para cambiar de arma usa los numeros 1 al 4$
+hq@bash.org$--->Estos son NanoBots, estos te ayudaran a mantenerte sano!$Nunca dejes que tus NanoBots lleguen a un nivel muy bajo! por que perderas NanoContainers!!$
+hq@bash.org$--->Bien hecho! has recuperado una unidad de informacion optica!$Esto indica que has llegado al final del nivel y para seguir$es necesario que resuelvas un reto informatico, instala$el programa con el comando "install" y nombre del programa$ ejemplo: install nombre_del_programa$
+hq@bash.org$--->Has terminado tu entrenamiento, es hora de que vayas a recuperar el tan preciado virus$y demuestres tus habilidades como hacker$Comienza el verdadero trabajo$

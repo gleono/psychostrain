@@ -1,0 +1,4 @@
+3
+enemyRueda1.png 1
+enemyRueda2.png 1
+enemyRueda3.png 1

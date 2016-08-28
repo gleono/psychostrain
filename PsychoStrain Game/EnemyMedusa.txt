@@ -1,0 +1,7 @@
+6
+enemyMedusa1.png 1
+enemyMedusa2.png 1
+enemyMedusa3.png 1
+enemyMedusa4.png 1
+enemyMedusa5.png 1
+enemyMedusa6.png 1

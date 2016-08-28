@@ -1,0 +1,13 @@
+12
+enemyTank1_right.png 1
+enemyTank2_right.png 1
+enemyTank3_right.png 1
+enemyTank4_right.png 1
+enemyTank5_right.png 1
+enemyTank6_right.png 1
+enemyTank1_left.png 1
+enemyTank2_left.png 1
+enemyTank3_left.png 1
+enemyTank4_left.png 1
+enemyTank5_left.png 1
+enemyTank6_left.png 1
