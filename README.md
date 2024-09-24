@@ -6,7 +6,7 @@ Programado en 2008 por:
 
 - Arquimedes Diaz
 - Manuel Espinoza
-- Guillermo Leon
+- Guillermo León
 - Alberto Zorrilla
 
 Para compilar y correr es necesario instalar [Netbeans](https://netbeans.org/)
